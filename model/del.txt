@@ -1,0 +1,21 @@
+<div data-role="page" id='home'>
+            
+            <header data-role="header">
+                <h1>Music Naija</h1>
+            </header>
+            
+            <article data-role="content">
+                <ul data-role="listview" data-filter='true' data-inset='true' id='movieList'> 
+                </ul>
+            </article>
+            <footer data-role="footer" data-position='fixed'>
+                <nav data-role="navbar">
+                    <ul>
+                        <li><a href='#' data-icon='home'>Home</a></li>
+                        <li><a href='#' data-icon='grid'>Song List</a></li>
+                        <li><a href='#' data-icon='info'>Info</a></li>
+                    </ul>
+                </nav>
+            </footer>
+            
+</div>
